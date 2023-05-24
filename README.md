@@ -2,4 +2,10 @@
 
 ## Official PyTorch Implementation
 
-This repository contains a sample training code with the training parameters hard coded in source files. In near future, a more automatic training code will be uploaded.
+This repository contains only our proposed model with the parameters hard coded in the source file. In near future, an automatic training code will be uploaded.
+
+## Setup
+Run the following command to install dependencies:
+```
+pip install numpy matplotlib torch torchvision sentence-transformers efficientnet_pytorch
+```
